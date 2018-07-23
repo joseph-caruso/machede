@@ -1,0 +1,26 @@
+{
+  "name": "machede",
+  "version": "1.0.0",
+  "description": "Desktop environment based on Google's Material Design concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-caru/machede.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "desktop",
+    "environment",
+    "machede"
+  ],
+  "author": "Joseph T. Caruso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-caru/machede/issues"
+  },
+  "homepage": "https://github.com/j-caru/machede#readme"
+}
