@@ -2,8 +2,9 @@
   "name": "machede",
   "version": "1.0.0",
   "description": "Desktop environment based on Google's Material Design concepts.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "npm test.js"
   },
   "repository": {
