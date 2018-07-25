@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
+    "startnogpu": "electron . --disable-gpu",
     "test": "npm test.js"
   },
   "repository": {

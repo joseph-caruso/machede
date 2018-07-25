@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+  <background-image id="lockscreen-background" content="background" on-click="lockscreenBackgroundOnClick"/>
+</layout>
