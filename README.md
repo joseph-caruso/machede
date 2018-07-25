@@ -11,3 +11,6 @@ Run the following commands as root in the directory of the cloned repository:
 chmod +x scripts/install.sh
 ./scripts/install.sh
 ```
+
+## Usage
+Simply run `machede` in any TTY not already running an X server.
